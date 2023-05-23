@@ -72,7 +72,7 @@ My name is Janine Wiesemann and I'm a data analyst/data scientist. I'm from Germ
 <img align="center" alt="JeanneDuPre's github stats" src="https://github-readme-stats.vercel.app/api?username=jeannedupre&layout=compact&theme=cobalt&hide_border=true"> -->
 
 <!-- add Visitor Count -->
-<!-- [![Visitor Count](https://profile-counter.glitch.me/{JeanneDuPre}/count.svg)] -->
+<!-- ![Visitor Count](https://komarev.com/ghpvc/?username=JeanneDuPre&color=green) -->
 
 <!-- ----footer---- -->
 <p align="center"> © 2023 JeanneDuPre, all rights reserved. Made with ❤️. </p>
