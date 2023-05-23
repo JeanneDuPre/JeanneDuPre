@@ -1,5 +1,7 @@
 <!-- Add a creative header -->
-<!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/) -->
+![Header](https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/header-website.png "Header")
+
+<!-- (https://some-url.dev/) -->
 
 
 # Hi there 👋
@@ -11,8 +13,8 @@ My name is Janine Wiesemann and I'm a data analyst/data scientist. I'm from Germ
     b) datascience projects (predict a price)
 <!-- by using:
 add streamlit, plotly, dash -->
-- 🌱 I recently attended a Datascience Bootcamp <img alt="lewagon" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/lewagon.png" width="45px">
-- ⚡ Fun fact: I never finish my coffee <img alt="coffee" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/hot-beverage_2615.png" width="45px"/>
+- 🌱 I recently attended a Datascience Bootcamp <img alt="lewagon" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/lewagon.png" width="25px">
+- ⚡ Fun fact: I never finish my coffee <img alt="coffee" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/hot-beverage_2615.png" width="25px"/>
 
 <!-- - 📫 How to reach me: ... -->
 
@@ -39,5 +41,5 @@ add streamlit, plotly, dash -->
 
 [![JeanneDuPre’s github stats](https://github-readme-stats.vercel.app/api?username=jeannedupre&show_icons=true&theme=dark)](https://github.com/jeannedupre)
 
-[![Visitor Count](https://profile-counter.glitch.me/{JeanneDuPre}/count.svg)]
+<!-- [![Visitor Count](https://profile-counter.glitch.me/{JeanneDuPre}/count.svg)] -->
 <!-- How to add visitors? -->
