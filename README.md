@@ -10,7 +10,7 @@ My name is Janine Wiesemann and I'm a data analyst/data scientist. I'm from Germ
     b) Whatsapp dashboard (emojis) 
     b) datascience projects (predict a price)
 - 🌱 I’m currently learning data science (lewagon)
-- ⚡ Fun fact: I never finish my coffee [! [coffee][3.2]]
+- ⚡ Fun fact: I never finish my coffee <img alt="coffee" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/hot-beverage_2615.png"/>
 
 <!-- - 📫 How to reach me: ... -->
 
