@@ -3,6 +3,7 @@
 
 
 ### Hi there 👋
+My name is Janine Wiesemann and I'm a data analyst/data scientist. I'm from Germany living in Berlin. You can find me on website, or on linkedin.
 
 <!--
 **JeanneDuPre/JeanneDuPre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,7 +38,7 @@ Here are some ideas to get you started:
 <!-- Tools Git, Tools GitHub, Tools github -->
 
 ## 🏆 GitHub Stats
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jeannedupre)](https://github.com/jeannedupre)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jeannedupre&show_icons=true&theme=dark)](https://github.com/jeannedupre)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeannedupre&layout=compact)](https://github.com/jeannedupre)
 
