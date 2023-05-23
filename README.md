@@ -43,6 +43,9 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Stats
 [![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeanneDuPre&theme=dark)](https://github.com/jeannedupre)
 
-[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeanneDuPre&theme=dark)](https://github.com/jeannedupre) [![JeanneDuPre’s github stats](https://github-readme-stats.vercel.app/api?username=jeannedupre&show_icons=true&theme=dark)](https://github.com/jeannedupre) 
+[![JeanneDuPre’s github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeanneDuPre&theme=dark)](https://github.com/jeannedupre) 
+
+
+[![JeanneDuPre’s github stats](https://github-readme-stats.vercel.app/api?username=jeannedupre&show_icons=true&theme=dark)](https://github.com/jeannedupre)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeannedupre&layout=compact)](https://github.com/jeannedupre)
 
 <!-- How to add visitors? -->
