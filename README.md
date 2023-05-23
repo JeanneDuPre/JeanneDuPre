@@ -9,8 +9,10 @@ My name is Janine Wiesemann and I'm a data analyst/data scientist. I'm from Germ
     a) PhD dashboard
     b) Whatsapp dashboard (emojis) 
     b) datascience projects (predict a price)
-- 🌱 I recently attended a Datascience Bootcamp <img alt="lewagon" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/lewagon.png" width="35px">
-- ⚡ Fun fact: I never finish my coffee <img alt="coffee" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/hot-beverage_2615.png" width="35px"/>
+<!-- by using:
+add streamlit, plotly, dash -->
+- 🌱 I recently attended a Datascience Bootcamp <img alt="lewagon" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/lewagon.png" width="45px">
+- ⚡ Fun fact: I never finish my coffee <img alt="coffee" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/hot-beverage_2615.png" width="45px"/>
 
 <!-- - 📫 How to reach me: ... -->
 
@@ -31,8 +33,11 @@ My name is Janine Wiesemann and I'm a data analyst/data scientist. I'm from Germ
 <!-- Tools Git, Tools GitHub, Tools github -->
 
 ## 🏆 GitHub Stats
-[![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeanneDuPre&theme=dark)](https://github.com/jeannedupre) [![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JeanneDuPre&theme=dark&utcOffset=8)](https://github.com/jeannedupre)
+[![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeanneDuPre&theme=dark)](https://github.com/jeannedupre) 
 
-[![JeanneDuPre’s github stats](https://github-readme-stats.vercel.app/api?username=jeannedupre&show_icons=true&theme=dark)](https://github.com/jeannedupre)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeannedupre&theme=dark)](https://github.com/jeannedupre)
+[![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JeanneDuPre&theme=dark&utcOffset=8)](https://github.com/jeannedupre)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeannedupre&theme=dark)](https://github.com/jeannedupre)
 
+[![JeanneDuPre’s github stats](https://github-readme-stats.vercel.app/api?username=jeannedupre&show_icons=true&theme=dark)](https://github.com/jeannedupre)
+
+[![Visitor Count](https://profile-counter.glitch.me/{JeanneDuPre}/count.svg)]
 <!-- How to add visitors? -->
