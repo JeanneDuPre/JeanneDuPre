@@ -9,17 +9,26 @@
 <h1 align="center">Hello world! Readme in progress</h1>
 My name is Janine Wiesemann and I'm a data analyst/data scientist. I'm from Germany living in Berlin. You can find me on <a href="https://jeannedupre.github.io/">my website</a>, or on <a href="https://www.linkedin.com/in/janine-wiesemann-jeannedupre/">Linkedin</a>.  
     
-- 🔭 I’m currently working on own projects: 
+- 🔭 I’m currently working on projects: 
     1. PhD dashboard
     2. Whatsapp dashboard (emojis)
     3. datascience projects (predict a price)
-- I'm exploring:
+    <!-- - I'm exploring: -->
+    <!-- add an emoji -->
     <!-- <img alt="streamlit" src="">
     <img alt="plotly" src="">
     <img alt="dash" src=""> -->
 - 🌱 I recently attended a Datascience Bootcamp <img alt="lewagon" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/lewagon.png" width="25px">
 - ⚡ Fun fact: I never finish my coffee <img alt="coffee" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/hot-beverage_2615.png" width="25px"/>
 - 📫 How to reach me: <a href="mailto:jwiesema@gmail.com"><img alt="Gmail icon" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/gmail.png" width="25px"/></a>
+
+<h2 align="center">Milestones</h2>
+<!-- Add an emoji -->
+<!-- add a clickable list -->
+<!-- <p>
+  - [ ] task 1
+  - [x] task 2
+</p> -->
 
 <h2 align="center">🥋 Technical Skills</h2>
 <!-- Skills to take from shields.io -->
@@ -50,7 +59,10 @@ My name is Janine Wiesemann and I'm a data analyst/data scientist. I'm from Germ
 
 <!-- [![JeanneDuPre’s github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeanneDuPre&theme=material_palenight)](https://github.com/jeannedupre) -->
 </p>
-________
+
+
+
+<!-- ________ -->
 <!-- Change the images !!! -->
 
 <!-- <img align="center" alt="summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeanneDuPre&layout=compact&theme=cobalt&hide_border=true">
