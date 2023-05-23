@@ -1,18 +1,18 @@
 <!-- Add a creative header -->
-[![Header](https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/header_website.png "Header)](https://jeannedupre.github.io/)
-<!-- <a href="https://jeannedupre.github.io/"><img alt="Header of my website" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/header_website.png"/></a> -->
+<!-- [![Header](https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/header_website.png "Header)](https://jeannedupre.github.io/) -->
+<a href="https://jeannedupre.github.io/"><img alt="Header of my website" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/header_website.png"/></a>
 
 
 <!-- (https://some-url.dev/) -->
 
 
-<h1 align="center">Hello world!</h1>
-My name is Janine Wiesemann and I'm a data analyst/data scientist. I'm from Germany living in Berlin. You can find me on <a href="https://jeannedupre.github.io/"><img alt="website icon" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/website_icon_2.png" width="25px"/></a>, or on <a href="https://www.linkedin.com/in/janine-wiesemann-jeannedupre/"><img alt="Linkedin Icon" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/linkedin_2.png" width="25px"/></a>.  
+<h1 align="center">Hello world! Readme in progress</h1>
+My name is Janine Wiesemann and I'm a data analyst/data scientist. I'm from Germany living in Berlin. You can find me on <a href="https://jeannedupre.github.io/">my website</a>, or on <a href="https://www.linkedin.com/in/janine-wiesemann-jeannedupre/">Linkedin</a>.  
     
 - 🔭 I’m currently working on own projects: 
-    1. PhD dashboard  1
-    2. Whatsapp dashboard (emojis)  2
-    3. datascience projects (predict a price) 3
+    1. PhD dashboard
+    2. Whatsapp dashboard (emojis)
+    3. datascience projects (predict a price)
 - I'm exploring:
     <!-- <img alt="streamlit" src="">
     <img alt="plotly" src="">
@@ -42,11 +42,13 @@ My name is Janine Wiesemann and I'm a data analyst/data scientist. I'm from Germ
 
 <h2 align="center">🏆 GitHub Stats</h2>
 <p align="center">
-[![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeanneDuPre&theme=dark)](https://github.com/jeannedupre) 
 
-[![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JeanneDuPre&theme=dark&utcOffset=8)](https://github.com/jeannedupre)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeannedupre&theme=dark)](https://github.com/jeannedupre)
+<!-- [![Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeanneDuPre&theme=material_palenight)] -->
 
-[![JeanneDuPre’s github stats](https://github-readme-stats.vercel.app/api?username=jeannedupre&show_icons=true&theme=dark)](https://github.com/jeannedupre)
+<!-- [![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JeanneDuPre&theme=material_palenight&utcOffset=8)](https://github.com/jeannedupre) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeannedupre&theme=dark)](https://github.com/jeannedupre)
+
+<!-- [![JeanneDuPre’s github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeanneDuPre&theme=material_palenight)](https://github.com/jeannedupre) -->
 </p>
 ________
 <!-- Change the images !!! -->
