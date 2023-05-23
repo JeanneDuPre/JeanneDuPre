@@ -31,3 +31,8 @@ Here are some ideas to get you started:
 
 <!-- style Bootstrap, style CSS3 -->
 <!-- Tools Git, Tools GitHub, Tools github -->
+
+## 🏆 GitHub Stats
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jeannedupre)](https://github.com/jeannedupre)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeannedupre&layout=compact)](https://github.com/jeannedupre)
