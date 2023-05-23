@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<h2>Connect with me:</h2>
+## twitter logo
 <a href=”"><img align=”left” src=”https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png” alt=”Janine Wiesemann| Linkedin” width=”35px”/></a>
 -->
+## 🤝 Connect with me:
+<!-- Linkedin Link -->
+<a href=""><img align="left" src="https://raw.githubusercontent.com/jeannedupre/jeannedupre/main/" alt="Janine Wiesemann | Linkedin" width="35px"/></a>
+<!-- Gmail Link -->
+<a href="mailto:jwiesema@gmail.com"><img align="left" src="https://raw.githubusercontent.com/jeannedupre/jeannedupre/main/" width="35px"/></a>
