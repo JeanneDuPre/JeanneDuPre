@@ -2,7 +2,7 @@
 <!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/) -->
 
 
-### Hi there 👋
+# Hi there 👋
 My name is Janine Wiesemann and I'm a data analyst/data scientist. I'm from Germany living in Berlin. You can find me on [![Website][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 <!-- Tools Git, Tools GitHub, Tools github -->
 
 ## 🏆 GitHub Stats
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jeannedupre&show_icons=true&theme=dark)](https://github.com/jeannedupre) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeannedupre&show_icons=true&theme=dark)](https://github.com/jeannedupre)
+[![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeanneDuPre&theme=dark)](https://github.com/jeannedupre)
+
+[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeanneDuPre&theme=dark)](https://github.com/jeannedupre) [![JeanneDuPre’s github stats](https://github-readme-stats.vercel.app/api?username=jeannedupre&show_icons=true&theme=dark)](https://github.com/jeannedupre) 
 
 <!-- How to add visitors? -->
