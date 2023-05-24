@@ -6,7 +6,7 @@
 <!-- (https://some-url.dev/) -->
 
 
-<h1 align="center">💻🕵😎</h1>
+<h1 align="center">🕵💻😎</h1>
 My name is Janine Wiesemann and I'm a data analyst/data scientist. I'm from Germany living in Berlin. You can find me on <a href="https://jeannedupre.github.io/">my website</a>, or on <a href="https://www.linkedin.com/in/janine-wiesemann-jeannedupre/">Linkedin</a>. Contact me via <a href="mailto:jwiesema@gmail.com">Gmail</a>. 
     
 - 🔭 I’m currently working on projects: 
@@ -22,7 +22,7 @@ My name is Janine Wiesemann and I'm a data analyst/data scientist. I'm from Germ
 - ⚡ Fun fact: I never finish my coffee <img alt="coffee" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/hot-beverage_2615.png" width="25px"/>
 
 
-<h2 align="center">💪 Milestones</h2>
+<!-- <h2 align="center">💪 Milestones</h2> -->
 <!-- Add an emoji -->
 <!-- add a clickable list -->
 <!-- <p>
@@ -30,26 +30,35 @@ My name is Janine Wiesemann and I'm a data analyst/data scientist. I'm from Germ
   - [x] task 2
 </p> -->
 
-<h2 align="center">🥋 Technical Skills</h2>
-<!-- Skills to take from shields.io -->
-<p align="center">
+<!-- <h2 align="center">Languages</h2> -->
+<!-- Skills to take from shields.io regex, SQL, BASH-->
+ <!-- <p align="center">
     <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</p> -->
+
+<!-- pandas, numpy,  MLFLOW,  SCIKIT-LEARN,  MATPLOTLIB, SEABORN -->
+<!-- <h2 align="center">ML/DL</h2>
+<p align="center">
+</p> -->
+
+<!-- <h2 align="center">Technologies & Frameworks</h2>
+<p align="center">
     <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <!-- <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> -->
-    <!-- regex -->
-    <!-- SQL -->
-<!-- <img alt="PostgreSQL" src="https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791"/>
-<img alt="SQLite" src="https://img.shields.io/badge/Code-SQLite-informational?style?flat&logo=SQLite&color=003B57"/> -->
-</p>
-
+</p> -->
 <!-- style Bootstrap, style CSS3 -->
 <!-- Tools Git, Tools GitHub, Tools github -->
-<h2 align="center">👷🏻‍♂️ Tools</h2>
+
+ <!-- LINUS, WINDOWS -->
+<!-- <h2 align="center">OS</h2>
+<p align="center">
+</p> -->
+
+<!-- <h2 align="center">👷🏻‍♂️ Tools</h2>
 <p align="center">
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <!-- <img src="GitHub" src=""/> -->
-</p>
+</p> -->
 
 <h2 align="center">🏆 GitHub Stats</h2>
 <p align="center">
