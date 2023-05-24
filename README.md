@@ -5,21 +5,25 @@
 
 <!-- (https://some-url.dev/) -->
 
-
-<h1 align="center">🕵💻😎</h1>
-My name is Janine Wiesemann and I'm a data analyst/data scientist. I'm from Germany living in Berlin. You can find me on <a href="https://jeannedupre.github.io/">my website</a>, or on <a href="https://www.linkedin.com/in/janine-wiesemann-jeannedupre/">Linkedin</a>. Contact me via <a href="mailto:jwiesema@gmail.com">Gmail</a>. 
-    
-- 🔭 I’m currently working on projects: 
-    1. PhD dashboard
-    2. Whatsapp dashboard (emojis)
-    3. datascience projects (predict a price)
+<div>
+    <h1 align="center">🕵💻😎</h1>
+    <p align="center">My name is Janine Wiesemann and I'm a data analyst/data scientist. I'm from Germany living in Berlin. You can find me on <a href="https://jeannedupre.github.io/">my website</a>, or on <a href="https://www.linkedin.com/in/janine-wiesemann-jeannedupre/">Linkedin</a>. Contact me via <a href="mailto:jwiesema@gmail.com">Gmail</a>. 
+    </p>
+    <p align="left">
+- 🔭 I’m currently working on projects:<br> 
+        <ol>
+            <li>PhD dashboard</li><br>
+            <li>Whatsapp dashboard (emojis)</li><br>
+            <li>datascience projects (predict a price)</li>
     <!-- - I'm exploring: -->
     <!-- add an emoji -->
     <!-- <img alt="streamlit" src="">
     <img alt="plotly" src="">
     <img alt="dash" src=""> -->
-- 🌱 I recently attended a Datascience Bootcamp <img alt="lewagon" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/lewagon.png" width="25px">
-- ⚡ Fun fact: I never finish my coffee <img alt="coffee" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/hot-beverage_2615.png" width="25px"/>
+        </ol>
+- 🌱 I recently attended a Datascience Bootcamp <img alt="lewagon" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/lewagon.png" width="25px"><br>
+- ⚡ Fun fact: I never finish my coffee <img alt="coffee" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/hot-beverage_2615.png" width="25px"/><br>
+    </p>
 
 
 <!-- <h2 align="center">💪 Milestones</h2> -->
