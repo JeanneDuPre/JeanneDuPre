@@ -66,7 +66,7 @@ My name is Janine Wiesemann and I'm a data analyst/data scientist. I'm from Germ
 ![Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeanneDuPre&theme=material_palenight)
 
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JeanneDuPre&theme=material_palenight&utcOffset=8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeannedupre&theme=material_palenight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeannedupre&theme=material_palenight) -->
 
 ![JeanneDuPre’s github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeanneDuPre&theme=material_palenight)
 </p>
