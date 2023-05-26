@@ -18,7 +18,7 @@
 | Topic                             | Code              | Link        |
 | :-------------                    | :-------------:   | :--------:  |
 | PhD Dashboard                     | `Code`            | `website`   |
-| Whatsapp Chat Analysis            | `Code`            | `website`   |
+| Whatsapp Chat Analysis            | `Code`            | <a href="https://jeannedupre.github.io/project_emoji.html">`website`</a>   |
 | Datascience project               | `Code`            | `website`   |
 
 <div>
