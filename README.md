@@ -8,19 +8,20 @@
 <div>
     <h1 align="center">🕵💻😎</h1>
     <p align="center">My name is Janine Wiesemann and I'm a data analyst/data scientist. I'm from Germany living in Berlin. You can find me on <a href="https://jeannedupre.github.io/">my website</a>, or on <a href="https://www.linkedin.com/in/janine-wiesemann-jeannedupre/">Linkedin</a>. Contact me via <a href="mailto:jwiesema@gmail.com">Gmail</a>. 
-    </p>
+</div>
+<div>
     <p align="left">
-- 🔭 I’m currently working on projects:<br> 
-        <ol>
-            <li>PhD dashboard</li><br>
-            <li>Whatsapp dashboard (emojis)</li><br>
-            <li>datascience projects (predict a price)</li>
-    <!-- - I'm exploring: -->
-    <!-- add an emoji -->
-    <!-- <img alt="streamlit" src="">
-    <img alt="plotly" src="">
-    <img alt="dash" src=""> -->
-        </ol>
+- 🔭 I’m currently working on projects:<br>
+    </p>
+</div>
+
+| Topic                             | Code              | Link        |
+| :-------------                    | :-------------:   | :--------:  |
+| PhD Dashboard                     | `Code`            | `website`   |
+| Whatsapp Chat Analysis            | `Code`            | `website`   |
+| Datascience project               | `Code`            | `website`   |
+
+<div>
 - 🌱 I recently attended a Datascience Bootcamp <img alt="lewagon" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/lewagon.png" width="25px"><br>
 - ⚡ Fun fact: I never finish my coffee <img alt="coffee" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/hot-beverage_2615.png" width="25px"/><br>
     </p>
