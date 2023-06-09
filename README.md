@@ -67,13 +67,11 @@
 <h2 align="center">🏆 GitHub Stats</h2>
 <div>
 <img style="height: auto; width: 100%;" alt="Summary Card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeanneDuPre&theme=material_palenight" />
-<!-- ![Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeanneDuPre&theme=material_palenight) -->
 
-<img style= "height: auto; width: 50%;" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeannedupre&theme=material_palenight" />
+<img style= "height: auto; width: 50%;" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeannedupre&theme=tokyonight&theme=dracula" />
 
 <img style="height: auto; width: 50%;" alt="Commits" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JeanneDuPre&theme=material_palenight&utcOffset=8" /><img style="height: auto; width: 50%;" alt="JeanneDuPre's github stat" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeanneDuPre&theme=material_palenight">
 
-<!-- ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JeanneDuPre&theme=material_palenight&utcOffset=8)![JeanneDuPre’s github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeanneDuPre&theme=material_palenight) -->
 </div>
 
 <!-- ________ -->
