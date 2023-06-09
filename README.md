@@ -68,7 +68,10 @@
 <div>
 <img style="height: auto; width: 100%;" alt="Summary Card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeanneDuPre&theme=material_palenight" />
 
-<!-- problem in github to show another stil....solution in one year maybe -->
+<!-- problem in github to show another stil....solution in one year maybe Stand: 09.06.2023-->
+
+<img style= "width: 100%; height=100%" src="https://ionicabizau.github.io/github-profile-languages/api.html?JeanneDuPre" frameborder="0" />
+
 <!-- <img style= "height: auto; width: 50%;" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeannedupre&theme=tokyonight&theme=dracula" /> -->
 
 <img style="height: auto; width: 50%;" alt="Commits" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JeanneDuPre&theme=material_palenight&utcOffset=8" /><img style="height: auto; width: 50%;" alt="JeanneDuPre's github stat" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeanneDuPre&theme=material_palenight">
