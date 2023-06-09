@@ -70,7 +70,7 @@
 
 <!-- problem in github to show another stil....solution in one year maybe Stand: 09.06.2023-->
 
-<iframe width="600" height="600" style="background: #FFFFFF" src="https://ionicabizau.github.io/github-profile-languages/api.html?JeanneDuPre" frameborder="0"></iframe>
+<iframe width="600" height="600" style="background: #ccc" src="https://ionicabizau.github.io/github-profile-languages/api.html?JeanneDuPre" frameborder="0"></iframe>
 
 <!-- <img style= "height: auto; width: 50%;" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeannedupre&theme=tokyonight&theme=dracula" /> -->
 
