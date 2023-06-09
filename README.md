@@ -1,7 +1,7 @@
 <!-- Add a creative header -->
 <!-- [![Header](https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/header_website.png "Header)](https://jeannedupre.github.io/) -->
 
-<a href="https://jeannedupre.github.io/"><img alt="Header of my website" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/header_website.png"/></a>
+<a href="https://jeannedupre.github.io/"><img alt="Header of my website" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/images/header_website.png"/></a>
 
 <!-- (https://some-url.dev/) -->
 
@@ -22,8 +22,8 @@
 | Datascience project    | `Code` |                                `website`                                 |
 
 <div>
-- 🌱 I recently attended a Datascience Bootcamp <img alt="lewagon" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/lewagon.png" width="25px"><br>
-- ⚡ Fun fact: I never finish my coffee <img alt="coffee" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/hot-beverage_2615.png" width="25px"/><br>
+- 🌱 I recently attended a Datascience Bootcamp <img alt="lewagon" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/images/lewagon.png" width="25px"><br>
+- ⚡ Fun fact: I never finish my coffee <img alt="coffee" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/images/hot-beverage_2615.png" width="25px"/><br>
     </p>
 
 <!-- <h2 align="center">💪 Milestones</h2> -->
@@ -68,9 +68,8 @@
 <div>
 <img style="height: auto; width: 100%;" alt="Summary Card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeanneDuPre&theme=material_palenight" />
 
-<img style= "height: auto; width: 50%;" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeannedupre&theme=tokyonight&theme=dracula" />
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JeanneDuPre)](https://github.com/JeanneDuPre/github-readme-stats)
+<!-- problem in github to show another stil....solution in one year maybe -->
+<!-- <img style= "height: auto; width: 50%;" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeannedupre&theme=tokyonight&theme=dracula" /> -->
 
 <img style="height: auto; width: 50%;" alt="Commits" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JeanneDuPre&theme=material_palenight&utcOffset=8" /><img style="height: auto; width: 50%;" alt="JeanneDuPre's github stat" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeanneDuPre&theme=material_palenight">
 
@@ -90,5 +89,3 @@
 
 <!-- ----footer---- -->
 <p align="center"> © 2023 JeanneDuPre, all rights reserved. Made with ❤️. </p>
-
-[def]: https://github.com/anuraghazra/github-readme-stats
