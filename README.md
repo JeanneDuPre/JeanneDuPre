@@ -23,7 +23,7 @@
 
 <div>
 - 🌱 I recently attended a Datascience Bootcamp <img alt="lewagon" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/images/lewagon.png" width="25px"><br>
-- skills: Python (intermediate- numpy, pandas, matplotlib, seaborn, plotly, altair, dash, sklearn, ...), JavaScript(beginner), SQL, Docker, Webscraping (intermediate)
+- skills: <br>Python (intermediate- numpy, pandas, matplotlib, seaborn, plotly, altair, dash, sklearn, ...), <br>JavaScript(beginner), <br>SQL, <br>Docker, <br>Webscraping (intermediate)<br>
 - ⚡ Fun fact: I never finish my coffee <img alt="coffee" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/images/hot-beverage_2615.png" width="25px"/><br>
     </p>
 
