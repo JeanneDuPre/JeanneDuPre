@@ -23,6 +23,7 @@
 
 <div>
 - 🌱 I recently attended a Datascience Bootcamp <img alt="lewagon" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/images/lewagon.png" width="25px"><br>
+- skills: Python (intermediate- numpy, pandas, matplotlib, seaborn, plotly, altair, dash, sklearn, ...), JavaScript(beginner), SQL, Docker, Webscraping (intermediate)
 - ⚡ Fun fact: I never finish my coffee <img alt="coffee" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/images/hot-beverage_2615.png" width="25px"/><br>
     </p>
 
@@ -70,7 +71,7 @@
 
 <!-- problem in github to show another stil....solution in one year maybe Stand: 09.06.2023-->
 
-<iframe width="600" height="600" style="background: #ccc" src="https://ionicabizau.github.io/github-profile-languages/api.html?JeanneDuPre" frameborder="0"></iframe>
+<!-- <iframe width="600" height="600" style="background: #ccc" src="https://ionicabizau.github.io/github-profile-languages/api.html?JeanneDuPre" frameborder="0"></iframe> -->
 
 <!-- <img style= "height: auto; width: 50%;" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeannedupre&theme=tokyonight&theme=dracula" /> -->
 
