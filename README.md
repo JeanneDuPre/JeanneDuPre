@@ -1,4 +1,4 @@
-<!-- Add a creative header -->
+<!-- Add a creative header  -->
 <!-- [![Header](https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/header_website.png "Header)](https://jeannedupre.github.io/) -->
 
 <a href="https://jeannedupre.github.io/"><img alt="Header of my website" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/images/header_website.png"/></a>
