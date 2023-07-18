@@ -15,12 +15,12 @@
     </p>
 </div>
 
-| Topic                  |  Code  |                                   Link                                   | new skills                                                        |
-| :--------------------- | :----: | :----------------------------------------------------------------------: | :----------:                                                      |
-| PhD Dashboard          | `Code` |                                `website`                                 |                                                                   |
-| Whatsapp Chat Analysis | `Code` | <a href="https://jeannedupre.github.io/project_emoji.html">`website`</a> |                                                                   |
-| Customers dashboard    | `Code` | <a href="https://jeannedupre-customers.streamlit.app/">`website`</a>     | API, dashboard from scratch (streamlit), Kmeans cluster, CLV, RFM |
-| Datascience project    | `Code` |                                `website`                                 |                                                                   |
+| Topic                  |  Code  |                                   Link                                   | New Skills                                                             |
+| :--------------------- | :----: | :----------------------------------------------------------------------: | :----------:                                                           |
+| PhD Dashboard          | `Code` |                                `website`                                 |                                                                        |
+| Whatsapp Chat Analysis | `Code` | <a href="https://jeannedupre.github.io/project_emoji.html">`website`</a> | Analytics                                                              |
+| Customers Dashboard    | `Code` | <a href="https://jeannedupre-customers.streamlit.app/">`website`</a>     | KPI, API, dashboard from scratch (streamlit), Kmeans cluster, CLV, RFM |
+| Datascience project    | `Code` |                                `website`                                 |                                                                        |
 
 <div>
 - 🌱 I recently attended a Datascience Bootcamp <img alt="lewagon" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/images/lewagon.png" width="25px"><br>
