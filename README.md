@@ -19,7 +19,7 @@
 | :--------------------- | :----: | :----------------------------------------------------------------------: | :----------:                                                           |
 | PhD Dashboard          | `Code` |                                `website`                                 |                                                                        |
 | Whatsapp Chat Analysis | `Code` | <a href="https://jeannedupre.github.io/project_emoji.html">`website`</a> | Analytics                                                              |
-| Customers Dashboard    | `Code` | <a href="https://jeannedupre-customers.streamlit.app/">`website`</a>     | KPI, API, dashboard from scratch (streamlit), Kmeans cluster, CLV, RFM |
+| Customers Dashboard    | <a href="https://github.com/JeanneDuPre/streamlit_customer">`Code`</a> | <a href="https://jeannedupre-customers.streamlit.app/">`website`</a>     | KPI, API, dashboard from scratch (streamlit), Kmeans cluster, CLV, RFM |
 | Datascience project    | `Code` |                                `website`                                 |                                                                        |
 
 <div>
