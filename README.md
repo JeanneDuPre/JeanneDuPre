@@ -20,9 +20,8 @@
 | PhD Dashboard          | `Code` |                                `website`                                 |                                                                        |
 | Whatsapp Chat Analysis | `Code` | <a href="https://jeannedupre.github.io/project_emoji.html">`website`</a> | Analytics                                                              |
 | Customers Dashboard    | <a href="https://github.com/JeanneDuPre/streamlit_customer">`Code`</a> | <a href="https://jeannedupre-customers.streamlit.app/">`website`</a>     | KPI, API, dashboard from scratch (streamlit), Kmeans cluster, CLV, RFM, download filtered data |
-| Sentiment Analysis and Topic Identification of reviews on trustpilot concerning the company DB (Deutsche Bahn)    | `Code` |                                `website`                                 | Scraping, SA, TF-IDF, PCA
-                                                                        |
-| Twitter Sentiment Analysis on Brands | `Code` |                                `website`                                 |                                                                        |
+| Sentiment Analysis and Topic Identification of reviews on trustpilot concerning the company DB (Deutsche Bahn)    | `Code` |                                `website`                                 | Scraping, SA, TF-IDF, PCA |
+| Twitter Sentiment Analysis on Brands | `Code` |                            `website`                                 |                                                                        |
 | ML Predict the price of E10        | `Code` |                                `website`                                 |                                                                        |
 <div>
 - 🌱 I recently attended a Datascience Bootcamp <img alt="lewagon" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/images/lewagon.png" width="25px"><br>
