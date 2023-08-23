@@ -21,7 +21,7 @@
 | LinkedIn Analysis | `Code` | <a href="https://jeannedupre.github.io/project_linkedin.html">`website`</a> | Analytics                                                              |
 | Facebook Analysis | `Code` | `website` | Analytics                                                              |
 | Customers Dashboard| <a href="https://github.com/JeanneDuPre/streamlit_customer">`Code`</a> | <a href="https://jeannedupre-customers.streamlit.app/">`website`</a>     | KPI, API, dashboard from scratch (streamlit), Kmeans cluster, CLV, RFM, download filtered data |
-| Sentiment Analysis and Topic Identification of reviews on trustpilot concerning the company DB (Deutsche Bahn)| `Code` |<a href="https://jeannedupre.github.io/project_scrape.html">`website`</a> | Scraping, SA, TF-IDF, PCA |
+| Sentiment Analysis and Topic Identification of reviews on trustpilot concerning the company DB (Deutsche Bahn)| `Code` |<a href="https://jeannedupre.github.io/project_scrape.html">`website`</a> | Scraping, SA, TF-IDF, Automate (YML) |
 | Twitter Sentiment Analysis on Brands | `Code` |                            `website`                                 |                                                                        |
 | ML Predict the price of E10        | `Code` |                                `website`                                 |                                                                        |
 <div>
