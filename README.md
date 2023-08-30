@@ -22,6 +22,7 @@
 | Facebook Analysis | `Code` | `website` | Analytics                                                              |
 | Customers Dashboard| <a href="https://github.com/JeanneDuPre/streamlit_customer">`Code`</a> | <a href="https://jeannedupre-customers.streamlit.app/">`website`</a>     | KPI, API, dashboard from scratch (streamlit), Kmeans cluster, CLV, RFM, download filtered data |
 | Topic Identification of reviews on trustpilot concerning the company DB (Deutsche Bahn)| `Code` |<a href="https://jeannedupre.github.io/project_scrape.html">`website`</a> | Scraping, Automate (YML), Top2Vec, unbalanced dataset |
+| Scraping Social Media|`code`|`website`| YouTube, Facebook, Twitter, Instagram, Tiktok by using API or Selenium
 | Twitter Sentiment Analysis on Brands | `Code` |                            `website`                                 |                                                                        |
 | ML Predict the price of E10        | `Code` |                                `website`                                 |                                                                        |
 <div>
