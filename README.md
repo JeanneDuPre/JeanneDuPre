@@ -17,12 +17,14 @@
 
 | Topic                  |  Code  |                                   Link                                   | New Skills                                                             |
 | :--------------------- | :----: | :----------------------------------------------------------------------: | :----------:                                                           |
-| Analyse myData | `Code` | <a href="https://jeannedupre.github.io/project_emoji.html">`website`</a>(WhatsApp) <br> <a href="https://jeannedupre.github.io/project_linkedin.html">`website`</a>(LinkedIn) <br> `website`(Facebook) | Analytics                                                              |
-| Customers Dashboard| <a href="https://github.com/JeanneDuPre/streamlit_customer">`Code`</a> | <a href="https://jeannedupre-customers.streamlit.app/">`website`</a>     | KPI, API, dashboard from scratch (streamlit), Kmeans cluster, CLV, RFM, download filtered data |
-| Topic Identification of reviews on trustpilot concerning the company DB (Deutsche Bahn)| <a href="https://github.com/JeanneDuPre/DB_trustpilot_automate_scrape_reviews">`Code`</a> |<a href="https://jeannedupre.github.io/project_scrape.html">`website`</a> | Scraping, Automate (YML), Top2Vec, unbalanced dataset |
+| Analyse myData | `code` | <a href="https://jeannedupre.github.io/project_emoji.html">`website`</a>(WhatsApp) <br> <a href="https://jeannedupre.github.io/project_linkedin.html">`website`</a>(LinkedIn) <br> `website`(Facebook) | Analytics                                                              |
+| Customers Dashboard| <a href="https://github.com/JeanneDuPre/streamlit_customer">`code`</a> | <a href="https://jeannedupre-customers.streamlit.app/">`website`</a>     | KPI, API, dashboard from scratch (streamlit), Kmeans cluster, CLV, RFM, download filtered data |
+| Topic Identification of reviews on trustpilot concerning the company DB (Deutsche Bahn)| <a href="https://github.com/JeanneDuPre/DB_trustpilot_automate_scrape_reviews">`code`</a> |<a href="https://jeannedupre.github.io/project_scrape.html">`website`</a> | Scraping, Automate (YML), Top2Vec, unbalanced dataset |
+|Delays on the German train|`code`|`website`|Scraping Google Maps and DB<br>from 12.09.2023 until 12.10.2023<br>GitHub Actions|
+| When is it worth swapping my old petrol car (BMW) for an electric car?| `code`| `website`|Scraping www.12gebrauchtwagen.de (petrol (BMW), electric, hybrid (BMW), electric, hybrid (cars)<br>Scraping gasoline price (E10) and electricity price<br>from 10.09.2023 until 10.10.2023<br>GitHub Actions|
 | Scraping Social Media|`code`|`website`| YouTube, Facebook, Twitter, Instagram, Tiktok by using API or Selenium
-| Twitter Sentiment Analysis on Brands | `Code` |                            `website`                                 |                                                                        |
-| ML Predict the price of E10        | `Code` |                                `website`                                 |                                                                        |
+| Twitter Sentiment Analysis on Brands | `code` |                            `website`                                 |                                                                        |
+| ML Predict the price of E10        | `code` |                                `website`                                 |                                                                        |
 <div>
 - 🌱 I recently attended a Datascience Bootcamp <img alt="lewagon" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/images/lewagon.png" width="25px"><br>
 - skills: <br>Python (intermediate- numpy, pandas, matplotlib, seaborn, plotly, altair, dash, sklearn, ...), <br>JavaScript(beginner), <br>SQL, <br>Docker, <br>Webscraping (intermediate)<br>
