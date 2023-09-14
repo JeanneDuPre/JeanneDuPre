@@ -17,7 +17,7 @@
 
 | Topic                  |  Code  |                                   Link                                   | New Skills                                                             |
 | :--------------------- | :----: | :----------------------------------------------------------------------: | :----------:                                                           |
-| Analyse myData | `code` | <a href="https://jeannedupre.github.io/project_emoji.html">`website`</a>(WhatsApp) | Analytics                                                              |
+| Analyse myData | `code` | <a href="https://jeannedupre.github.io/project_emoji.html">`website`</a> | Analytics                                                              |
 | Customers Dashboard| <a href="https://github.com/JeanneDuPre/streamlit_customer">`code`</a> | <a href="https://jeannedupre-customers.streamlit.app/">`website`</a>     | KPI, API, dashboard from scratch (streamlit), Kmeans cluster, CLV, RFM, download filtered data |
 | Topic Identification of reviews on trustpilot concerning the company DB (Deutsche Bahn)| <a href="https://github.com/JeanneDuPre/DB_trustpilot_automate_scrape_reviews">`code`</a> |<a href="https://jeannedupre.github.io/project_scrape.html">`website`</a> | Scraping, Automate (YML), Top2Vec, unbalanced dataset |
 | How many official schools without racism are there in Germany?|`code`|`website`|Scraping https://www.schule-ohne-rassismus.org/netzwerk/courage-schulen/<br>Scraping 16 different sites (Bundesländer)<br>Animation of Rassismus|
