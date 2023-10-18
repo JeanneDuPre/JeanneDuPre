@@ -17,7 +17,8 @@
 
 | Topic                  |  Code  |                                   Link                                   | New Skills                                                             |
 | :--------------------- | :----: | :----------------------------------------------------------------------: | :----------:                                                           |
-| Analyse WhatsApp | `code` | <a href="https://jeannedupre.github.io/project_emoji.html">`website`</a> | Analytics                                                              |
+| Analyze WhatsApp | `code` | <a href="https://jeannedupre.github.io/project_emoji.html">`website`</a> | Analytics                                                              |
+| Analyze Nobel Prize Winner | `code` | `website` | TODO
 | Customers Dashboard| <a href="https://github.com/JeanneDuPre/streamlit_customer">`code`</a> | <a href="https://jeannedupre-customers.streamlit.app/">`website`</a>     | KPI, API, dashboard from scratch (streamlit), Kmeans cluster, CLV, RFM, download filtered data |
 | Topic Identification of reviews on trustpilot concerning the company DB (Deutsche Bahn)| <a href="https://github.com/JeanneDuPre/DB_trustpilot_automate_scrape_reviews">`code`</a> |<a href="https://jeannedupre.github.io/project_scrape.html">`website`</a> | Scraping, Automate (YML), Top2Vec, unbalanced dataset |
 | Automate Application for Substitute Teacher Position at the schools in Berlin | <a href="https://github.com/JeanneDuPre/automated_application_process_Seant_Berlin">`code`</a> | `website`| Python Programming (Intermediate Level), automate email sending by customizing the text (name) and attachment |
