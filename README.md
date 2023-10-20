@@ -19,7 +19,7 @@
 | :--------------------- | :----: | :----------------------------------------------------------------------: | :----------:                                                           |
 | Analyze WhatsApp | `code` | <a href="https://jeannedupre.github.io/project_emoji.html">`website`</a> | Analytics|
 | Analyze Nobel Prize Winner | <a href="https://github.com/JeanneDuPre/scrape_wikipedia_nobel_prize_winner">`code`</a> | `website` | TODO|
-| How many official schools without racism are there in Germany (Berlin vs. Bavaria)?|`code`|`website`|Scraping https://www.schule-ohne-rassismus.org/netzwerk/courage-schulen/<br>Animation|
+| How many official schools without racism are there in Germany (Berlin vs. Bavaria)?| <a href="https://github.com/JeanneDuPre/schule_ohne_rassismus">`code`</a>|`website`|Scraping https://www.schule-ohne-rassismus.org/netzwerk/courage-schulen/<br>Animation|
 | Scraping Social Media|`code`|`website`| YouTube (Facebook, Twitter, Instagram, Tiktok by using API or Selenium) |
 |||||
 | Customers Dashboard| <a href="https://github.com/JeanneDuPre/streamlit_customer">`code`</a> | <a href="https://jeannedupre-customers.streamlit.app/">`website`</a>     | KPI, API, dashboard from scratch (streamlit), Kmeans cluster, CLV, RFM, download filtered data |
