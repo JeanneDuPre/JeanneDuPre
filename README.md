@@ -18,13 +18,17 @@
 | Topic                  |  Code  |                                   Link                                   | New Skills                                                             |
 | :--------------------- | :----: | :----------------------------------------------------------------------: | :----------:                                                           |
 | Analyze WhatsApp | `code` | <a href="https://jeannedupre.github.io/project_emoji.html">`website`</a> | Analytics                                                              |
-| Analyze Nobel Prize Winner | <a href="https://github.com/JeanneDuPre/scrape_wikipedia_nobel_prize_winner">`code`</a> | `website` | TODO
+| Analyze Nobel Prize Winner | <a href="https://github.com/JeanneDuPre/scrape_wikipedia_nobel_prize_winner">`code`</a> | `website` | TODO|
+
 | Customers Dashboard| <a href="https://github.com/JeanneDuPre/streamlit_customer">`code`</a> | <a href="https://jeannedupre-customers.streamlit.app/">`website`</a>     | KPI, API, dashboard from scratch (streamlit), Kmeans cluster, CLV, RFM, download filtered data |
 | Topic Identification of reviews on trustpilot concerning the company DB (Deutsche Bahn)| <a href="https://github.com/JeanneDuPre/DB_trustpilot_automate_scrape_reviews">`code`</a> |<a href="https://jeannedupre.github.io/project_scrape.html">`website`</a> | Scraping, Automate (YML), Top2Vec, unbalanced dataset |
+
 | Automate Application for Substitute Teacher Position at the schools in Berlin | <a href="https://github.com/JeanneDuPre/automated_application_process_Seant_Berlin">`code`</a> | `website`| Python Programming (Intermediate Level), automate email sending by customizing the text (name) and attachment |
-| How many official schools without racism are there in Germany?|`code`|`website`|Scraping https://www.schule-ohne-rassismus.org/netzwerk/courage-schulen/<br>Animation|
+| My son has a library card. How can I automatically keep track of the book due dates and avoid late fees? | `code` | `website`| Telegram Bot |
+
+| How many official schools without racism are there in Germany (Berlin vs. Bavaria?|`code`|`website`|Scraping https://www.schule-ohne-rassismus.org/netzwerk/courage-schulen/<br>Animation|
 | Who should we trust more when specifying delays, Deutsche Bahn or Google Maps?|`code`|`website`|Scraping Google Maps and DB<br>from 12.09.2023 until 12.10.2023<br>GitHub Actions<br>S3|
-| Which gas station within a 5-kilometer radius has the cheapest E10 price?|`code`| `website`|API call (tankerkoenig), Github Action|
+| Which gas station within a 5-kilometer radius has the cheapest E10 price?|<a href="https://github.com/JeanneDuPre/e10_price_berlin">`code`</a>| `website`|API call (tankerkoenig), Github Action, ML, price prediction|
 | When is it worth swapping my old petrol car (BMW) for an electric car?| `code`| `website`|Scraping www.12gebrauchtwagen.de (petrol (BMW), electric, hybrid (BMW), electric, hybrid (cars)<br>from 10.09.2023 until 10.10.2023<br>GitHub Actions<br>MongoDB|
 | Scraping Social Media|`code`|`website`| YouTube, Facebook, Twitter, Instagram, Tiktok by using API or Selenium
 | Twitter Sentiment Analysis on Brands | `code` |                            `website`                                 |                                                                        |
