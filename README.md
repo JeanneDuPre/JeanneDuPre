@@ -26,7 +26,7 @@
 | Where in Berlin should I open an ice cream parlor next year? What particular aspects should I pay attention to?| `code`|`website`| Scrape GoogleMaps for Business Data (location, review)|
 |||||
 | Topic Identification of reviews on trustpilot concerning the company DB (Deutsche Bahn)| <a href="https://github.com/JeanneDuPre/DB_trustpilot_automate_scrape_reviews">`code`</a> |<a href="https://jeannedupre.github.io/project_scrape.html">`website`</a> | Scraping, Automate (YML), Top2Vec, unbalanced dataset |
-| Do we really need a larger main train station in Berlin? (Delays) | >a href="https://github.com/JeanneDuPre/db_delay_zugfinder">`code`</a>|`website`| data based on www.zugfinder.net|
+| Do we really need a larger main train station in Berlin? (Delays) | <a href="https://github.com/JeanneDuPre/db_delay_zugfinder">`code`</a>|`website`| data based on www.zugfinder.net|
 | Who should we trust more when specifying delays, Deutsche Bahn or Google Maps?|`code`|`website`|Scraping Google Maps and DB<br>from 12.09.2023 until 12.10.2023<br>GitHub Actions<br>S3|
 |||||
 | Automate Application for Substitute Teacher Position at the schools in Berlin | <a href="https://github.com/JeanneDuPre/automated_application_process_Seant_Berlin">`code`</a> | `website`| Python Programming (Intermediate Level), automate email sending by customizing the text (name) and attachment |
