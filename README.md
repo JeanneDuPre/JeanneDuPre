@@ -33,7 +33,7 @@
 | My son has a library card. How can I automatically keep track of the book due dates and avoid late fees? | `code` | `website`| Automated book renewal, If books cannot be renewed anymore, I receive a message with the title and image, Telegram Bot |
 |||||
 | Which gas station within a 5-kilometer radius has the cheapest E10 price?|<a href="https://github.com/JeanneDuPre/e10_price_berlin">`code`</a>| `website`|API call (tankerkoenig), Github Action, ML, price prediction|
-| When is it worth swapping my old petrol car (BMW) for an electric car?| `code`| `website`|Scraping www.12gebrauchtwagen.de (petrol (BMW), electric, hybrid (BMW), electric, hybrid (cars)<br>from 10.09.2023 until 10.10.2023<br>GitHub Actions<br>MongoDB|
+| When is it worth swapping my old petrol car (BMW) for an electric car?| <a href="https://github.com/JeanneDuPre/my_new_car">`code`</a>| `website`|Scraping www.12gebrauchtwagen.de (petrol (BMW), electric, hybrid (BMW), electric, hybrid (cars)<br>from 10.09.2023 until 10.10.2023<br>GitHub Actions<br>MongoDB|
 
 <div>
 - 🌱 I recently attended a Datascience Bootcamp <img alt="lewagon" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/images/lewagon.png" width="25px"><br>
