@@ -7,7 +7,7 @@
 
 <div>
     <h1 align="center">🕵💻😎</h1>
-    <p align="center">My name is Janine Wiesemann and I'm a data analyst/data scientist. I'm from Germany living in Berlin. You can find me on <a href="https://jeannedupre.github.io/">my website</a>, on <a href="">my portfolio</a>or on <a href="https://www.linkedin.com/in/janine-wiesemann-jeannedupre/">Linkedin</a>. Contact me via <a href="mailto:jwiesema@gmail.com">Gmail</a>. 
+    <p align="center">My name is Janine Wiesemann and I'm a data analyst/data scientist. I'm from Germany living in Berlin. You can find me on <a href="https://jeannedupre.github.io/">my website</a>, on <a href="">my portfolio</a> or on <a href="https://www.linkedin.com/in/janine-wiesemann-jeannedupre/">Linkedin</a>. Contact me via <a href="mailto:jwiesema@gmail.com">Gmail</a>. 
 </div>
 <div>
     <p align="left">
@@ -24,6 +24,8 @@
 |||||
 | Customers Dashboard| <a href="https://github.com/JeanneDuPre/streamlit_customer">`code`</a> | <a href="https://jeannedupre-customers.streamlit.app/">`website`</a>     | KPI, API, dashboard from scratch (streamlit), Kmeans cluster, CLV, RFM, download filtered data |
 | Where in Berlin should I open an ice cream parlor next year? What particular aspects should I pay attention to?| `code`|`website`| Scrape GoogleMaps for Business Data (location, review)|
+|||||
+|Create a Django Portfolio|`code`|`website`| TODO
 |||||
 | Topic Identification of reviews on trustpilot concerning the company DB (Deutsche Bahn)| <a href="https://github.com/JeanneDuPre/DB_trustpilot_automate_scrape_reviews">`code`</a> |<a href="https://jeannedupre.github.io/project_scrape.html">`website`</a> | Scraping, Automate (YML), Top2Vec, unbalanced dataset |
 | Do we really need a larger main train station in Berlin? (Delays) | <a href="https://github.com/JeanneDuPre/db_delay_zugfinder">`code`</a>|`website`| data based on www.zugfinder.net|
