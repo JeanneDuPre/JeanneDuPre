@@ -7,7 +7,7 @@
 
 <div>
     <h1 align="center">🕵💻😎</h1>
-    <p align="center">My name is Janine Wiesemann and I'm a data analyst/data scientist. I'm from Germany living in Berlin. You can find me on <a href="https://jeannedupre.github.io/">my website</a>, on <a href="">my portfolio</a> or on <a href="https://www.linkedin.com/in/janine-wiesemann-jeannedupre/">Linkedin</a>. Contact me via <a href="mailto:jwiesema@gmail.com">Gmail</a>. 
+    <p align="center">My name is Janine Wiesemann and I'm a data analyst/data scientist. I'm from Germany living in Berlin. You can find me on <a href="https://jeannedupre.github.io/">my website</a>, on <a href="">my portfolio</a> or on <a href="https://www.linkedin.com/in/janine-wiesemann-jeannedupre/">LinkedIn</a>. Contact me via <a href="mailto:jwiesema@gmail.com">Gmail</a>. 
 </div>
 <div>
     <p align="left">
