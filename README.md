@@ -26,7 +26,7 @@
 | Customers Dashboard| <a href="https://github.com/JeanneDuPre/streamlit_customer">`code`</a> | <a href="https://jeannedupre-customers.streamlit.app/">`website`</a>     | KPI, API, dashboard from scratch (streamlit), Kmeans cluster, CLV, RFM, download filtered data |
 | Where in Berlin should I open an ice cream parlor next year? What particular aspects should I pay attention to?| `code`|`website`| Scrape GoogleMaps for Business Data (location, review)|
 |||||
-|Create a Django Portfolio|`code`|`website`| TODO
+|Create a Django Portfolio|<a href="https://github.com/JeanneDuPre/django_portfolio">`code`</a>|`website`| TODO
 |||||
 | Topic Identification of reviews on trustpilot concerning the company DB (Deutsche Bahn)| <a href="https://github.com/JeanneDuPre/DB_trustpilot_automate_scrape_reviews">`code`</a> |<a href="https://jeannedupre.github.io/project_scrape.html">`website`</a> | Scraping, Automate (YML), Top2Vec, unbalanced dataset |
 | Do we really need a larger main train station in Berlin? (Delays) | <a href="https://github.com/JeanneDuPre/db_delay_zugfinder">`code`</a>|`website`| data based on www.zugfinder.net|
