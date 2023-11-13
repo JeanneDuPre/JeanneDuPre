@@ -15,10 +15,11 @@
     </p>
 </div>
 
-| Topic                  |  Code  |                                   Link                                   | New Skills                                                             |
-| :--------------------- | :----: | :----------------------------------------------------------------------: | :----------:                                                           |
+| Topic                  |  Code  |                                   Link                                   | New Skills|
+| :--------------------- | :----: | :----------------------------------------------------------------------: | :----------:|
 | Analyze WhatsApp | <a href="https://github.com/JeanneDuPre/whatsapp_chat">`code`</a> | <a href="https://jeannedupre.github.io/project_emoji.html">`website`</a> | Analytics|
-| Analyze Nobel Prize Winner | <a href="https://github.com/JeanneDuPre/scrape_wikipedia_nobel_prize_winner">`code`</a> | `website` | Dashboard (Tableau)|
+| Analyze Nobel Prize Winner | <a href="https://github.com/JeanneDuPre/scrape_wikipedia_nobel_prize_winner">`code`</a> | `website` | Dashboard (Tableau |PowerBI)|
+| Analyze the daycare situation in Berlin| `code`|`website`| Analytics|
 | How many official schools without racism are there in Germany (Berlin vs. Bavaria)?| <a href="https://github.com/JeanneDuPre/schule_ohne_rassismus">`code`</a>|`website`|Scraping https://www.schule-ohne-rassismus.org/netzwerk/courage-schulen/<br>Animation|
 | Scraping Social Media| <a href="https://github.com/JeanneDuPre/scraping_social_media">`code`</a>|`website`| YouTube (Facebook, Twitter, Instagram, Tiktok by using API or Selenium) |
 |||||
