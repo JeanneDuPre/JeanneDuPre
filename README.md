@@ -32,7 +32,7 @@
 | Do we really need a larger main train station in Berlin? (Delays) | <a href="https://github.com/JeanneDuPre/db_delay_zugfinder">`code`</a>|`website`| data based on www.zugfinder.net|
 |||||
 | Automate Application for Substitute Teacher Position at the schools in Berlin | <a href="https://github.com/JeanneDuPre/automated_application_process_Seant_Berlin">`code`</a> | `website`| Python Programming (Intermediate Level), automate email sending by customizing the text (name) and attachment |
-| My son has a library card. How can I automatically keep track of the book due dates and avoid late fees? | `code` | `website`| Automated book renewal, If books cannot be renewed anymore, I receive a message with the title and image, Telegram Bot |
+| My son has a library card. How can I automatically keep track of the book due dates and avoid late fees? |<a href="https://github.com/JeanneDuPre/avoid_late_fees"> `code`</a>| `website`| Automated book renewal, If books cannot be renewed anymore, I receive a message with the title and image, Telegram Bot |
 |||||
 | Which gas station within a 5-kilometer radius has the cheapest E10 price?|<a href="https://github.com/JeanneDuPre/e10_price_berlin">`code`</a>| `website`|API call (tankerkoenig), Github Action, ML, price prediction|
 | When is it worth swapping my old petrol car (BMW) for an electric car?| <a href="https://github.com/JeanneDuPre/my_new_car">`code`</a>| `website`|Scraping www.12gebrauchtwagen.de (petrol (BMW), electric, hybrid (BMW), electric, hybrid (cars)<br>from 10.09.2023 until 10.10.2023<br>GitHub Actions<br>MongoDB|
