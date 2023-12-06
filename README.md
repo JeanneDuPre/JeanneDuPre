@@ -28,7 +28,7 @@
 |||||
 |Create a Django Portfolio|<a href="https://github.com/JeanneDuPre/django_portfolio">`code`</a>|`website`| TODO|
 |Create an e-commerce store by using Django|<a href="">`code`</a>|`website`| TODO|
-|Create a chatbot by using RASA|<a href="">`code`</a>|`website`|TODO
+|Create a chatbot by using RASA|<a href="https://github.com/JeanneDuPre/chatbot_rasa">`code`</a>|`website`|TODO
 |||||
 | Topic Identification of reviews on trustpilot concerning the company DB (Deutsche Bahn)| <a href="https://github.com/JeanneDuPre/DB_trustpilot_automate_scrape_reviews">`code`</a> |<a href="https://jeannedupre.github.io/project_scrape.html">`website`</a> | Scraping, Automate (YML), Top2Vec, unbalanced dataset |
 | Do we really need a larger main train station in Berlin? (Delays) | <a href="https://github.com/JeanneDuPre/db_delay_zugfinder">`code`</a>|`website`| data based on www.zugfinder.net|
