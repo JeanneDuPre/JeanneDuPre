@@ -17,7 +17,6 @@
 
 | Topic                  |  Code  |                                   Link                                   | New Skills|
 | :--------------------- | :----: | :----------------------------------------------------------------------: | :----------:|
-|Analytics||||
 | Analyze WhatsApp | <a href="https://github.com/JeanneDuPre/whatsapp_chat">`code`</a> | <a href="https://jeannedupre.github.io/project_emoji.html">`website`</a> | Analytics|
 | Analyze Nobel Prize Winner | <a href="https://github.com/JeanneDuPre/scrape_wikipedia_nobel_prize_winner">`code`</a> | `website` | Dashboard (Tableau, PowerBI)|
 | Analyze the daycare situation in Berlin| <a href="https://github.com/JeanneDuPre/daycare_in_berlin">`code`</a>|`website`| Analytics|
