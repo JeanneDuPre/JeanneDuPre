@@ -41,11 +41,11 @@
 |||||
 | Geburtsnamensverzeichnis in Berlin | <a href="https://github.com/JeanneDuPre/geburtsnamen_berlin">`code`</a> |`website`|PHP beginner|
 |||||
-|ToDo App in different languages| <a href="https://github.com/JeanneDuPre/geburtsnamen_berlin">`code`</a> | `website` |Flask<br>Flet<br>Django<br>PHP<br>Java<br>JavaScript|
+|ToDo App in different languages| <a href="#">`code`</a> | `website` |Flask TODO<br>Flet<br>Django TODO<br>PHP TODO<br>Java TODO<br>JavaScript TODO|
 
 <div>
 - 🌱 I recently attended a Datascience Bootcamp <img alt="lewagon" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/images/lewagon.png" width="25px"><br>
-- skills: <br> Python (intermediate- numpy, pandas, matplotlib, seaborn, plotly, altair, dash, sklearn, ...), Flet, <br>Django, <br>JavaScript(beginner), <br>SQL, <br>Docker, <br>Webscraping (intermediate)<br>, <br>PHP<br>
+- skills: <br> Python (intermediate- numpy, pandas, matplotlib, seaborn, plotly, altair, dash, sklearn, ...)<br> Flet <br> Django <br> JavaScript(beginner) <br> SQL <br> Docker <br> Webscraping (intermediate)<br> PHP
 - ⚡ Fun fact: I never finish my coffee <img alt="coffee" src="https://raw.githubusercontent.com/JeanneDuPre/JeanneDuPre/main/images/hot-beverage_2615.png" width="25px"/><br>
     </p>
 
