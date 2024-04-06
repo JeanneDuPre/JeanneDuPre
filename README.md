@@ -26,7 +26,7 @@
 | Customers Dashboard| <a href="https://github.com/JeanneDuPre/streamlit_customer">`code`</a> | <a href="https://jeannedupre-customers.streamlit.app/">`website`</a>     | KPI, API, dashboard from scratch (streamlit), Kmeans cluster, CLV, RFM, download filtered data |
 | Where in Berlin should I open an ice cream parlor next year? What particular aspects should I pay attention to?|<a href="https://github.com/JeanneDuPre/ice_cream_parlor_in_berlin"> `code`</a>|`website`| Scrape GoogleMaps for Business Data (location, review)|
 |||||
-|Create a Django Portfolio|<a href="https://github.com/JeanneDuPre/django_portfolio">`code`</a>|`website`| TODO|
+|Create a Django Portfolio|<a href="https://github.com/JeanneDuPre/django_portfolio">`code`</a>|`website`||
 |Create an e-commerce store by using Django|<a href="">`code`</a>|`website`| TODO|
 |Create a chatbot by using RASA|<a href="https://github.com/JeanneDuPre/chatbot_rasa">`code`</a>|`website`|TODO
 |||||
